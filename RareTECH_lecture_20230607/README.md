@@ -2,5 +2,5 @@
 
 PythonコードはすべてGoogle Colab上で実行することを想定しています．
 
-講義資料のURL: 
-RareTECH様のHP: https://raretech.site/ 
+- 講義資料のURL: 
+- RareTECH様のHP: https://raretech.site/ 
