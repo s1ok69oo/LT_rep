@@ -3,4 +3,4 @@
 PythonコードはすべてGoogle Colab上で実行することを想定しています．
 
 - RareTECH様のHP: https://raretech.site/ 
-- 講義資料のURL: 
+- 講義資料のURL: https://speakerdeck.com/s1ok69oo/maketeinguxdetafen-xi 
